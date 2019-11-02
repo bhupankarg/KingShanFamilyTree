@@ -1,0 +1,6 @@
+ADD_CHILD Queen Anga Bhupankar Male
+GET_RELATIONSHIP Chit Siblings
+GET_RELATIONSHIP Dritha Siblings
+GET_RELATIONSHIP Ish Son
+GET_RELATIONSHIP Queen Anga Son
+GET_RELATIONSHIP Queen Anga Daughter
